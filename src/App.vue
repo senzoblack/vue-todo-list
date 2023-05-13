@@ -46,7 +46,6 @@
         </div>
       </div>
     </section>
-    {{todos}}
   </main>
 </template>
 <script setup>
